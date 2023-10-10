@@ -6,7 +6,7 @@ on:
 
 jobs:
   build_and_deploy:
-    name: Compilation du site Hugo et déploiement Deux fleurs
+    name: Compilation du site Hugo et déploiement Deuxfleurs
     runs-on: ubuntu-latest
     steps:
 
