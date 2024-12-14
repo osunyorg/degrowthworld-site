@@ -5,25 +5,30 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+  path: "/posts"
   file: content/en/posts/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
   children: []
+  path: "/events"
   file: content/en/events/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
   children: []
+  path: "/persons"
   file: content/en/persons/_index.html
 - title: Organisations
   target: "/organisations/"
   kind: page
   children: []
+  path: "/organizations"
   file: content/en/organizations/_index.html
 - title: About
   target: "/about/"
   kind: page
   children: []
+  path: "/pages/about"
   file: content/en/pages/about/_index.html
 
