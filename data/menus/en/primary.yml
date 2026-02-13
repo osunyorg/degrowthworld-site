@@ -2,45 +2,57 @@
 title: Main menu
 items:
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/en/posts/_index.html
 - title: Agenda
+  slug: agenda
   target: "/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/en/events/_index.html
 - title: Équipe
+  slug: equipe
   target: "/equipe/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/en/persons/_index.html
 - title: Organisations
+  slug: organisations
   target: "/organisations/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/organizations"
   file: content/en/organizations/_index.html
 - title: About
+  slug: about
   target: "/about/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/about"
   file: content/en/pages/about/_index.html
 - title: Exhibitions
+  slug: exhibitions
   target: "/exhibitions/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/exhibitions"
   file: content/en/exhibitions/_index.html
 
